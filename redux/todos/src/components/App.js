@@ -4,9 +4,9 @@ import React from 'react'
 import Footer from './Footer'
 
 import AddTodo from '../containers/AddTodo'
-import Todo from './Todo'
+// import Todo from './Todo'
 
-// import VisibleTodoList from '../containers/VisibleTodoList'
+import VisibleTodoList from '../containers/VisibleTodoList'
 
 const App = () => (
   <div>
@@ -17,9 +17,9 @@ const App = () => (
 
     <p/>
 
-    <Todo />
+    {/* <Todo /> */}
 
-    {/* <VisibleTodoList /> */}
+    <VisibleTodoList />
 
     <p/>
     
