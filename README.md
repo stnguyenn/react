@@ -16,6 +16,9 @@
 
 ## firebase
 
+- `npm install -g firebase-tools`
+- [More info](https://github.com/chriso23/firebase-cli)
+
 ## authentication
 
 ## database
